@@ -1,0 +1,87 @@
+--- Research Output --- 
+Timestamp: 2026-06-18 19:27:19
+
+JPEG - Joint Photographic Experts Group
+
+OVERVIEW:
+JPEG (pronounced JAY-peg) stands for Joint Photographic Experts Group and is the de facto standard for lossy compression of photographic images. It was standardized in 1992 and has become one of the most widely used image formats worldwide.
+
+WHAT IS JPEG?
+JPEG is a lossy image compression format that is particularly effective for photographs and paintings with realistic scenes and smooth variations of tone and color. The format is widely used for storing and transmitting photographic images, especially on the web and digital cameras.
+
+COMPRESSION CHARACTERISTICS:
+- Type: Lossy compression (some data is permanently discarded)
+- Typical Compression Ratio: 10:1 to 20:1
+- Quality Settings: At moderate quality settings (Q=75-85), JPEG achieves imperceptible quality loss
+- File Size: Significantly smaller than uncompressed formats, making it ideal for web usage and quick transmission
+
+HOW JPEG COMPRESSION WORKS:
+1. Color Format Conversion: RGB color format is converted to Y, Cb, Cr format
+2. Frequency Analysis: The algorithm identifies that some colors are more sensitive to human eyes (high-frequency) while others like Cb and Cr are less sensitive and can be ignored
+3. Downsampling: Pixel sizes are reduced in areas where human eyes are less sensitive
+4. Discarding Information: The compression algorithm safely discards information that is less perceptible to human vision
+
+ADVANTAGES:
+- High compression ratios (10-20x) with minimal perceived quality loss
+- Most common format for digital cameras (JPEG/Exif)
+- Excellent for photographs and realistic images
+- Widely supported across all platforms and devices
+- Ideal for web usage where file size is critical for responsive presentation
+
+DISADVANTAGES:
+- Lossy compression means permanent loss of image data
+- Not ideal for images requiring lossless compression (like graphics or text)
+- Quality degrades with each compression cycle
+
+USE CASES:
+- Digital photography
+- Web images and online galleries
+- Social media platforms
+- Email attachments
+- Digital camera storage
+
+COMPARISON WITH OTHER FORMATS:
+JPEG is often compared with PNG (which uses lossless compression) and WebP (a newer format), but remains the most commonly used format for photographic images due to its wide support and effective compression for photographs.
+
+--- Research Output --- 
+Timestamp: 2026-06-18 19:30:18
+
+Title: Who Moved My Cheese?
+
+Overview:
+"Who Moved My Cheese?" is a parable written by Spencer Johnson, published in 1998. It's a self-help business book that uses an allegory of mice searching for cheese to illustrate how people should deal with change in their personal and professional lives.
+
+Key Characters:
+- Sniff: A mouse who smells and anticipates change
+- Scurry: A mouse who acts quickly without thinking
+- Hem: A little person (human) who denies and resists change
+- Haw: A little person (human) who eventually adapts to change
+
+Main Themes:
+1. Change is constant and inevitable
+2. Fear of change can paralyze you
+3. Adaptation and flexibility are essential skills
+4. Anticipating change gives you an advantage
+5. Moving in a new direction helps you find success
+
+The Story:
+The book describes the journey of four characters living in a maze who depend on cheese for nourishment and happiness. When the cheese supply runs out, each character responds differently - some adapt and find new cheese, while others resist and struggle.
+
+Impact:
+- Became a best-selling book with millions of copies sold worldwide
+- Widely used in corporate training programs
+- Published in over 50 languages
+- Has become a cultural phenomenon and part of business vocabulary
+
+Author:
+Spencer Johnson, MD - an American physician and author known for writing self-help and business books.
+
+Why It Matters:
+The book serves as a practical guide for dealing with change, whether in careers, relationships, or personal growth. It teaches that resistance to change often causes more suffering than the change itself.
+
+Lessons:
+- Acceptance of change leads to better outcomes
+- Taking action is better than staying stuck
+- Monitoring your environment helps you anticipate changes
+- Letting go of the past is necessary for progress
+
