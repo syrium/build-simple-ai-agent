@@ -18,6 +18,7 @@ Simple CLI AI agent backed by Claude
 - 
 
 ## References
-- 
+- Tech With Tim - "Build an AI Agent From Scratch in Python - Tutorial for Beginners" 
+    - https://youtu.be/bTMPwUgLZf0?si=1gNpxbU35PKwY5GF
 
 
